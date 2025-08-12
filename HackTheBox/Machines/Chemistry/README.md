@@ -213,6 +213,6 @@ done
 
 ## Summary
 
-[Chemistry has been Pwned](https://www.hackthebox.com/achievement/machine/2245732/631)
+[Chemistry has been Pwned](https://labs.hackthebox.com/achievement/machine/2245732/631)
 
 The machine was successfully compromised through exploitation of CVE-2024-23346 in the Pymatgen library, allowing arbitrary code execution via malicious CIF file processing, followed by privilege escalation through CVE-2024-23334 in the aiohttp service.

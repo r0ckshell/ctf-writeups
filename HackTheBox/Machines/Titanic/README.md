@@ -1,12 +1,12 @@
 # Titanic
 
 **Category:** Machine  
-**Difficulty:** Medium  
+**Difficulty:** Easy  
 **Platform:** HackTheBox
 
 ## Machine Description
 
-Titanic is a medium-difficulty machine that involves web application vulnerabilities, database exploitation, and privilege escalation through ImageMagick security flaws.
+Titanic is a easy-difficulty machine that involves web application vulnerabilities, database exploitation, and privilege escalation through ImageMagick security flaws.
 
 ## Initial Reconnaissance
 
@@ -188,6 +188,6 @@ Successfully exploited the CVE to copy `root.txt` into this readable folder.
 
 ## Summary
 
-[Titanic has been Pwned](https://www.hackthebox.com/achievement/machine/2245732/648)
+[Titanic has been Pwned](https://labs.hackthebox.com/achievement/machine/2245732/648)
 
 The machine was successfully compromised through LFI → Database extraction → Password cracking → Privilege escalation via CVE-2024-41817.
